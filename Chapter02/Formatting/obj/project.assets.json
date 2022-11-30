@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/buphio/Repos/cs11dotnet7/Chapter01/AboutMyEnvironment/AboutMyEnvironment.csproj",
-      "projectName": "AboutMyEnvironment",
-      "projectPath": "/Users/buphio/Repos/cs11dotnet7/Chapter01/AboutMyEnvironment/AboutMyEnvironment.csproj",
+      "projectUniqueName": "/Users/buphio/Repos/cs11dotnet7/Chapter02/Formatting/Formatting.csproj",
+      "projectName": "Formatting",
+      "projectPath": "/Users/buphio/Repos/cs11dotnet7/Chapter02/Formatting/Formatting.csproj",
       "packagesPath": "/Users/buphio/.nuget/packages/",
-      "outputPath": "/Users/buphio/Repos/cs11dotnet7/Chapter01/AboutMyEnvironment/obj/",
+      "outputPath": "/Users/buphio/Repos/cs11dotnet7/Chapter02/Formatting/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/Users/buphio/Library/Application Support/Godot/mono/GodotNuGetFallbackFolder"

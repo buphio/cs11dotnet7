@@ -13,3 +13,6 @@
 /Users/buphio/Repos/cs11dotnet7/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net7.0/AboutMyEnvironment.pdb
 /Users/buphio/Repos/cs11dotnet7/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net7.0/AboutMyEnvironment.genruntimeconfig.cache
 /Users/buphio/Repos/cs11dotnet7/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net7.0/ref/AboutMyEnvironment.dll
+/Users/buphio/Repos/cs11dotnet7/Chapter01/AboutMyEnvironment/obj/Debug/net7.0/AboutMyEnvironment.dll
+/Users/buphio/Repos/cs11dotnet7/Chapter01/AboutMyEnvironment/obj/Debug/net7.0/refint/AboutMyEnvironment.dll
+/Users/buphio/Repos/cs11dotnet7/Chapter01/AboutMyEnvironment/obj/Debug/net7.0/AboutMyEnvironment.pdb
