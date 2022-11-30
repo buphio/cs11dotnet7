@@ -1,0 +1,15 @@
+/Users/buphio/Repos/cs11dotnet7/Chapter02/Strings/bin/Debug/net7.0/Strings
+/Users/buphio/Repos/cs11dotnet7/Chapter02/Strings/bin/Debug/net7.0/Strings.deps.json
+/Users/buphio/Repos/cs11dotnet7/Chapter02/Strings/bin/Debug/net7.0/Strings.runtimeconfig.json
+/Users/buphio/Repos/cs11dotnet7/Chapter02/Strings/bin/Debug/net7.0/Strings.dll
+/Users/buphio/Repos/cs11dotnet7/Chapter02/Strings/bin/Debug/net7.0/Strings.pdb
+/Users/buphio/Repos/cs11dotnet7/Chapter02/Strings/obj/Debug/net7.0/Strings.csproj.AssemblyReference.cache
+/Users/buphio/Repos/cs11dotnet7/Chapter02/Strings/obj/Debug/net7.0/Strings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/buphio/Repos/cs11dotnet7/Chapter02/Strings/obj/Debug/net7.0/Strings.AssemblyInfoInputs.cache
+/Users/buphio/Repos/cs11dotnet7/Chapter02/Strings/obj/Debug/net7.0/Strings.AssemblyInfo.cs
+/Users/buphio/Repos/cs11dotnet7/Chapter02/Strings/obj/Debug/net7.0/Strings.csproj.CoreCompileInputs.cache
+/Users/buphio/Repos/cs11dotnet7/Chapter02/Strings/obj/Debug/net7.0/Strings.dll
+/Users/buphio/Repos/cs11dotnet7/Chapter02/Strings/obj/Debug/net7.0/refint/Strings.dll
+/Users/buphio/Repos/cs11dotnet7/Chapter02/Strings/obj/Debug/net7.0/Strings.pdb
+/Users/buphio/Repos/cs11dotnet7/Chapter02/Strings/obj/Debug/net7.0/Strings.genruntimeconfig.cache
+/Users/buphio/Repos/cs11dotnet7/Chapter02/Strings/obj/Debug/net7.0/ref/Strings.dll

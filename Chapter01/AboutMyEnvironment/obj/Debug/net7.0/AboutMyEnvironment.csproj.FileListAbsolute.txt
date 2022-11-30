@@ -1,0 +1,15 @@
+/Users/buphio/Repos/cs11dotnet7/Chapter01-vscode/AboutMyEnvironment/bin/Debug/net7.0/AboutMyEnvironment
+/Users/buphio/Repos/cs11dotnet7/Chapter01-vscode/AboutMyEnvironment/bin/Debug/net7.0/AboutMyEnvironment.deps.json
+/Users/buphio/Repos/cs11dotnet7/Chapter01-vscode/AboutMyEnvironment/bin/Debug/net7.0/AboutMyEnvironment.runtimeconfig.json
+/Users/buphio/Repos/cs11dotnet7/Chapter01-vscode/AboutMyEnvironment/bin/Debug/net7.0/AboutMyEnvironment.dll
+/Users/buphio/Repos/cs11dotnet7/Chapter01-vscode/AboutMyEnvironment/bin/Debug/net7.0/AboutMyEnvironment.pdb
+/Users/buphio/Repos/cs11dotnet7/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net7.0/AboutMyEnvironment.csproj.AssemblyReference.cache
+/Users/buphio/Repos/cs11dotnet7/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net7.0/AboutMyEnvironment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/buphio/Repos/cs11dotnet7/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net7.0/AboutMyEnvironment.AssemblyInfoInputs.cache
+/Users/buphio/Repos/cs11dotnet7/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net7.0/AboutMyEnvironment.AssemblyInfo.cs
+/Users/buphio/Repos/cs11dotnet7/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net7.0/AboutMyEnvironment.csproj.CoreCompileInputs.cache
+/Users/buphio/Repos/cs11dotnet7/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net7.0/AboutMyEnvironment.dll
+/Users/buphio/Repos/cs11dotnet7/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net7.0/refint/AboutMyEnvironment.dll
+/Users/buphio/Repos/cs11dotnet7/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net7.0/AboutMyEnvironment.pdb
+/Users/buphio/Repos/cs11dotnet7/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net7.0/AboutMyEnvironment.genruntimeconfig.cache
+/Users/buphio/Repos/cs11dotnet7/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net7.0/ref/AboutMyEnvironment.dll

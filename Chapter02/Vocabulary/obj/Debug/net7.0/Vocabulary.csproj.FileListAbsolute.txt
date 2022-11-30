@@ -1,0 +1,15 @@
+/Users/buphio/Repos/cs11dotnet7/Chapter02/Vocabulary/obj/Debug/net7.0/Vocabulary.csproj.AssemblyReference.cache
+/Users/buphio/Repos/cs11dotnet7/Chapter02/Vocabulary/obj/Debug/net7.0/Vocabulary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/buphio/Repos/cs11dotnet7/Chapter02/Vocabulary/obj/Debug/net7.0/Vocabulary.AssemblyInfoInputs.cache
+/Users/buphio/Repos/cs11dotnet7/Chapter02/Vocabulary/obj/Debug/net7.0/Vocabulary.AssemblyInfo.cs
+/Users/buphio/Repos/cs11dotnet7/Chapter02/Vocabulary/obj/Debug/net7.0/Vocabulary.csproj.CoreCompileInputs.cache
+/Users/buphio/Repos/cs11dotnet7/Chapter02/Vocabulary/bin/Debug/net7.0/Vocabulary
+/Users/buphio/Repos/cs11dotnet7/Chapter02/Vocabulary/bin/Debug/net7.0/Vocabulary.deps.json
+/Users/buphio/Repos/cs11dotnet7/Chapter02/Vocabulary/bin/Debug/net7.0/Vocabulary.runtimeconfig.json
+/Users/buphio/Repos/cs11dotnet7/Chapter02/Vocabulary/bin/Debug/net7.0/Vocabulary.dll
+/Users/buphio/Repos/cs11dotnet7/Chapter02/Vocabulary/bin/Debug/net7.0/Vocabulary.pdb
+/Users/buphio/Repos/cs11dotnet7/Chapter02/Vocabulary/obj/Debug/net7.0/Vocabulary.dll
+/Users/buphio/Repos/cs11dotnet7/Chapter02/Vocabulary/obj/Debug/net7.0/refint/Vocabulary.dll
+/Users/buphio/Repos/cs11dotnet7/Chapter02/Vocabulary/obj/Debug/net7.0/Vocabulary.pdb
+/Users/buphio/Repos/cs11dotnet7/Chapter02/Vocabulary/obj/Debug/net7.0/Vocabulary.genruntimeconfig.cache
+/Users/buphio/Repos/cs11dotnet7/Chapter02/Vocabulary/obj/Debug/net7.0/ref/Vocabulary.dll
