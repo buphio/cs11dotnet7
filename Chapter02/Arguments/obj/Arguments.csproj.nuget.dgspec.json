@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/buphio/Projects/cs11dotnet7/Chapter02/Numbers/Numbers.csproj": {}
+    "/Users/buphio/Projects/cs11dotnet7/Chapter02/Arguments/Arguments.csproj": {}
   },
   "projects": {
-    "/Users/buphio/Projects/cs11dotnet7/Chapter02/Numbers/Numbers.csproj": {
+    "/Users/buphio/Projects/cs11dotnet7/Chapter02/Arguments/Arguments.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/buphio/Projects/cs11dotnet7/Chapter02/Numbers/Numbers.csproj",
-        "projectName": "Numbers",
-        "projectPath": "/Users/buphio/Projects/cs11dotnet7/Chapter02/Numbers/Numbers.csproj",
+        "projectUniqueName": "/Users/buphio/Projects/cs11dotnet7/Chapter02/Arguments/Arguments.csproj",
+        "projectName": "Arguments",
+        "projectPath": "/Users/buphio/Projects/cs11dotnet7/Chapter02/Arguments/Arguments.csproj",
         "packagesPath": "/Users/buphio/.nuget/packages/",
-        "outputPath": "/Users/buphio/Projects/cs11dotnet7/Chapter02/Numbers/obj/",
+        "outputPath": "/Users/buphio/Projects/cs11dotnet7/Chapter02/Arguments/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/buphio/.nuget/NuGet/NuGet.Config"

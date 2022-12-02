@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/buphio/Repos/cs11dotnet7/Chapter02/Formatting/Formatting.csproj": {}
+    "/Users/buphio/Projects/cs11dotnet7/Chapter02/Formatting/Formatting.csproj": {}
   },
   "projects": {
-    "/Users/buphio/Repos/cs11dotnet7/Chapter02/Formatting/Formatting.csproj": {
+    "/Users/buphio/Projects/cs11dotnet7/Chapter02/Formatting/Formatting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/buphio/Repos/cs11dotnet7/Chapter02/Formatting/Formatting.csproj",
+        "projectUniqueName": "/Users/buphio/Projects/cs11dotnet7/Chapter02/Formatting/Formatting.csproj",
         "projectName": "Formatting",
-        "projectPath": "/Users/buphio/Repos/cs11dotnet7/Chapter02/Formatting/Formatting.csproj",
+        "projectPath": "/Users/buphio/Projects/cs11dotnet7/Chapter02/Formatting/Formatting.csproj",
         "packagesPath": "/Users/buphio/.nuget/packages/",
-        "outputPath": "/Users/buphio/Repos/cs11dotnet7/Chapter02/Formatting/obj/",
+        "outputPath": "/Users/buphio/Projects/cs11dotnet7/Chapter02/Formatting/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "/Users/buphio/Library/Application Support/Godot/mono/GodotNuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "/Users/buphio/.nuget/NuGet/NuGet.Config",
-          "/Users/buphio/.nuget/NuGet/config/Godot.Offline.Config"
+          "/Users/buphio/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"

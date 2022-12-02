@@ -1,0 +1,15 @@
+/Users/buphio/Projects/cs11dotnet7/Chapter02/Arguments/bin/Debug/net7.0/Arguments
+/Users/buphio/Projects/cs11dotnet7/Chapter02/Arguments/bin/Debug/net7.0/Arguments.deps.json
+/Users/buphio/Projects/cs11dotnet7/Chapter02/Arguments/bin/Debug/net7.0/Arguments.runtimeconfig.json
+/Users/buphio/Projects/cs11dotnet7/Chapter02/Arguments/bin/Debug/net7.0/Arguments.dll
+/Users/buphio/Projects/cs11dotnet7/Chapter02/Arguments/bin/Debug/net7.0/Arguments.pdb
+/Users/buphio/Projects/cs11dotnet7/Chapter02/Arguments/obj/Debug/net7.0/Arguments.csproj.AssemblyReference.cache
+/Users/buphio/Projects/cs11dotnet7/Chapter02/Arguments/obj/Debug/net7.0/Arguments.GeneratedMSBuildEditorConfig.editorconfig
+/Users/buphio/Projects/cs11dotnet7/Chapter02/Arguments/obj/Debug/net7.0/Arguments.AssemblyInfoInputs.cache
+/Users/buphio/Projects/cs11dotnet7/Chapter02/Arguments/obj/Debug/net7.0/Arguments.AssemblyInfo.cs
+/Users/buphio/Projects/cs11dotnet7/Chapter02/Arguments/obj/Debug/net7.0/Arguments.csproj.CoreCompileInputs.cache
+/Users/buphio/Projects/cs11dotnet7/Chapter02/Arguments/obj/Debug/net7.0/Arguments.dll
+/Users/buphio/Projects/cs11dotnet7/Chapter02/Arguments/obj/Debug/net7.0/refint/Arguments.dll
+/Users/buphio/Projects/cs11dotnet7/Chapter02/Arguments/obj/Debug/net7.0/Arguments.pdb
+/Users/buphio/Projects/cs11dotnet7/Chapter02/Arguments/obj/Debug/net7.0/Arguments.genruntimeconfig.cache
+/Users/buphio/Projects/cs11dotnet7/Chapter02/Arguments/obj/Debug/net7.0/ref/Arguments.dll

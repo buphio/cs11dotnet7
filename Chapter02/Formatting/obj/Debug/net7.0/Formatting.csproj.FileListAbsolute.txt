@@ -1,0 +1,15 @@
+/Users/buphio/Projects/cs11dotnet7/Chapter02/Formatting/bin/Debug/net7.0/Formatting
+/Users/buphio/Projects/cs11dotnet7/Chapter02/Formatting/bin/Debug/net7.0/Formatting.deps.json
+/Users/buphio/Projects/cs11dotnet7/Chapter02/Formatting/bin/Debug/net7.0/Formatting.runtimeconfig.json
+/Users/buphio/Projects/cs11dotnet7/Chapter02/Formatting/bin/Debug/net7.0/Formatting.dll
+/Users/buphio/Projects/cs11dotnet7/Chapter02/Formatting/bin/Debug/net7.0/Formatting.pdb
+/Users/buphio/Projects/cs11dotnet7/Chapter02/Formatting/obj/Debug/net7.0/Formatting.csproj.AssemblyReference.cache
+/Users/buphio/Projects/cs11dotnet7/Chapter02/Formatting/obj/Debug/net7.0/Formatting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/buphio/Projects/cs11dotnet7/Chapter02/Formatting/obj/Debug/net7.0/Formatting.AssemblyInfoInputs.cache
+/Users/buphio/Projects/cs11dotnet7/Chapter02/Formatting/obj/Debug/net7.0/Formatting.AssemblyInfo.cs
+/Users/buphio/Projects/cs11dotnet7/Chapter02/Formatting/obj/Debug/net7.0/Formatting.csproj.CoreCompileInputs.cache
+/Users/buphio/Projects/cs11dotnet7/Chapter02/Formatting/obj/Debug/net7.0/Formatting.dll
+/Users/buphio/Projects/cs11dotnet7/Chapter02/Formatting/obj/Debug/net7.0/refint/Formatting.dll
+/Users/buphio/Projects/cs11dotnet7/Chapter02/Formatting/obj/Debug/net7.0/Formatting.pdb
+/Users/buphio/Projects/cs11dotnet7/Chapter02/Formatting/obj/Debug/net7.0/Formatting.genruntimeconfig.cache
+/Users/buphio/Projects/cs11dotnet7/Chapter02/Formatting/obj/Debug/net7.0/ref/Formatting.dll

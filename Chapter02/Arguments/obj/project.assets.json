@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/buphio/Projects/cs11dotnet7/Chapter02/Formatting/Formatting.csproj",
-      "projectName": "Formatting",
-      "projectPath": "/Users/buphio/Projects/cs11dotnet7/Chapter02/Formatting/Formatting.csproj",
+      "projectUniqueName": "/Users/buphio/Projects/cs11dotnet7/Chapter02/Arguments/Arguments.csproj",
+      "projectName": "Arguments",
+      "projectPath": "/Users/buphio/Projects/cs11dotnet7/Chapter02/Arguments/Arguments.csproj",
       "packagesPath": "/Users/buphio/.nuget/packages/",
-      "outputPath": "/Users/buphio/Projects/cs11dotnet7/Chapter02/Formatting/obj/",
+      "outputPath": "/Users/buphio/Projects/cs11dotnet7/Chapter02/Arguments/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/buphio/.nuget/NuGet/NuGet.Config"

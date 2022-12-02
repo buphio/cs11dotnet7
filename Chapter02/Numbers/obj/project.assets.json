@@ -8,24 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/Users/buphio/.nuget/packages/": {},
-    "/Users/buphio/Library/Application Support/Godot/mono/GodotNuGetFallbackFolder": {}
+    "/Users/buphio/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/buphio/Repos/cs11dotnet7/Chapter02/Numbers/Numbers.csproj",
+      "projectUniqueName": "/Users/buphio/Projects/cs11dotnet7/Chapter02/Numbers/Numbers.csproj",
       "projectName": "Numbers",
-      "projectPath": "/Users/buphio/Repos/cs11dotnet7/Chapter02/Numbers/Numbers.csproj",
+      "projectPath": "/Users/buphio/Projects/cs11dotnet7/Chapter02/Numbers/Numbers.csproj",
       "packagesPath": "/Users/buphio/.nuget/packages/",
-      "outputPath": "/Users/buphio/Repos/cs11dotnet7/Chapter02/Numbers/obj/",
+      "outputPath": "/Users/buphio/Projects/cs11dotnet7/Chapter02/Numbers/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "/Users/buphio/Library/Application Support/Godot/mono/GodotNuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "/Users/buphio/.nuget/NuGet/NuGet.Config",
-        "/Users/buphio/.nuget/NuGet/config/Godot.Offline.Config"
+        "/Users/buphio/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"

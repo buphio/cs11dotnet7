@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jfCtX+TTqhrfQDYG3tdbyoF3KNUX3n24M6NfXHBsQyJD1COCISxDqrpzUbcTodXd3yx56/2HB7cUr0h5BwEmRg==",
+  "dgSpecHash": "ndQfjIs42Qc9dcEs0ruStbBT3h3IWAO1PPmhERYDMmdtoCjwoziw4ja/i/zO3MFwZYzWpEckBO77xJwIo7K6Zg==",
   "success": true,
-  "projectFilePath": "/Users/buphio/Repos/cs11dotnet7/Chapter02/Numbers/Numbers.csproj",
+  "projectFilePath": "/Users/buphio/Projects/cs11dotnet7/Chapter02/Numbers/Numbers.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
