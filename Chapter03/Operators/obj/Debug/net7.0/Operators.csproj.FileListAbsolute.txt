@@ -1,0 +1,15 @@
+/Users/buphio/Projects/cs11dotnet7/Chapter03/Operators/bin/Debug/net7.0/Operators
+/Users/buphio/Projects/cs11dotnet7/Chapter03/Operators/bin/Debug/net7.0/Operators.deps.json
+/Users/buphio/Projects/cs11dotnet7/Chapter03/Operators/bin/Debug/net7.0/Operators.runtimeconfig.json
+/Users/buphio/Projects/cs11dotnet7/Chapter03/Operators/bin/Debug/net7.0/Operators.dll
+/Users/buphio/Projects/cs11dotnet7/Chapter03/Operators/bin/Debug/net7.0/Operators.pdb
+/Users/buphio/Projects/cs11dotnet7/Chapter03/Operators/obj/Debug/net7.0/Operators.csproj.AssemblyReference.cache
+/Users/buphio/Projects/cs11dotnet7/Chapter03/Operators/obj/Debug/net7.0/Operators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/buphio/Projects/cs11dotnet7/Chapter03/Operators/obj/Debug/net7.0/Operators.AssemblyInfoInputs.cache
+/Users/buphio/Projects/cs11dotnet7/Chapter03/Operators/obj/Debug/net7.0/Operators.AssemblyInfo.cs
+/Users/buphio/Projects/cs11dotnet7/Chapter03/Operators/obj/Debug/net7.0/Operators.csproj.CoreCompileInputs.cache
+/Users/buphio/Projects/cs11dotnet7/Chapter03/Operators/obj/Debug/net7.0/Operators.dll
+/Users/buphio/Projects/cs11dotnet7/Chapter03/Operators/obj/Debug/net7.0/refint/Operators.dll
+/Users/buphio/Projects/cs11dotnet7/Chapter03/Operators/obj/Debug/net7.0/Operators.pdb
+/Users/buphio/Projects/cs11dotnet7/Chapter03/Operators/obj/Debug/net7.0/Operators.genruntimeconfig.cache
+/Users/buphio/Projects/cs11dotnet7/Chapter03/Operators/obj/Debug/net7.0/ref/Operators.dll
